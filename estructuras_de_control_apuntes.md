@@ -6,7 +6,8 @@ Me basé en el video del [curso python para principiantes](https://www.youtube.c
 <details> 
   <summary>Programa que muestre si eres mayor de edad o no pidiéndole al usuario que ingrese la misma. Puedes ver y ejecutar el código en mi<a href="https://colab.research.google.com/drive/14iSBXwFNy9P549Kfnmdi2g75JQwkiDAi#scrollTo=-aeR9LieWVX7&line=10&uniqifier=1 "> google colaboratory </a> sin tener instalado nada  o verlo a continuación: </summary>
   <br>Solución:
-<img src="https://github.com/cisko85/mis_apuntes_python_conejercicios/blob/50a4ad3b6bc64906da836d40256347d9aed33774/condicional_comparadores_diagramadeflujo.png">
+<img src="condicional_comparadores_diagramadeflujo.png">
+  condicional_comparadores_diagramadeflujo.png
 ```
 # defino función por recomendación de buenas prácticas.
 def mayor_edad(num):
