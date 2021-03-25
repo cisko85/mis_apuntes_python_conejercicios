@@ -26,6 +26,16 @@ else:
 
 </details>
 
+# Estructruas repetitivas(iteraciones, bucles, loop) while, for.
+## WHILE
+<!--- esta es la dirección donde poder editar la siguiente imagen
+<img src="https://embed.creately.com/RIzK7SaweqU?token=ghqsjK9mP0MQA3Wy&type=svg">
+-->
+![Diagrama de flujo básico while](https://github.com/cisko85/mis_apuntes_python_conejercicios/blob/a11ea0ae8644a7e3fb112be494929ed85ae427d5/img/while.png)
+
+
+
+
 # Ejercios varios de iteraciones Python incial
 
 ## Ejercicios para practicar la estructura de control de bucle o repetición fija (for), usando Python
